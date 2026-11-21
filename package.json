@@ -1,0 +1,9 @@
+{
+  "name": "bujjikonda-ai",
+  "version": "1.0.0",
+  "description": "A personal Telugu-English AI companion with persistent memory",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "dependencies": {"express": "^4.21.2"},
+  "engines": {"node": ">=18"}
+}
